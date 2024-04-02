@@ -5,4 +5,3 @@ In these APEX Forms, you can utilize JavaScript and PL/SQL to invoke APIs, execu
 
 Feel free to download and test these forms on your Oracle APEX instance. This project is unlicensed and intended for educational and practice purposes only.
 
-If you've got any questions, just drop me a line at isaacalejandro.mejia1@gmail.com
